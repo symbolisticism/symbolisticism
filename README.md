@@ -3,6 +3,8 @@
 and be detail-oriented. While I am still relatively new to Flutter and Dart development, I bring my work ethic, organization, drive to learn and improve, and leadership qualities to the table wherever I go. I have worked on mobile app development, firmware, frontend web development, and databases.**
 
 <p>
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="35"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="35" width="35"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="35" width="35"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="35" width="35"/>
