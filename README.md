@@ -1,1 +1,1 @@
-![Banner]('Gabriele Peck.png')
+![Banner](/gabriele_peck.png)
