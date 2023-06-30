@@ -1,1 +1,1 @@
-![Banner]()
+![Banner](gabriele_peck.png)
