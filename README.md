@@ -15,5 +15,5 @@
 
 ## Let's Connect!
 <p>
-            <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35"/> [LinkedIn](https://www.linkedin.com/in/gabriele-peck/)
+- <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35" width="35"/> [LinkedIn](https://www.linkedin.com/in/gabriele-peck/)
 </p>
