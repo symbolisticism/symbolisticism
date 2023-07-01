@@ -15,4 +15,4 @@ and be detail-oriented. While I am still relatively new to Flutter and Dart deve
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=symbolisticism)](https://github.com/anuraghazra/github-readme-stats)
+[this is now a comment]: [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=symbolisticism)](https://github.com/anuraghazra/github-readme-stats)
