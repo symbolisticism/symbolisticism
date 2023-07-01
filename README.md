@@ -12,3 +12,8 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" width="35" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="35" width="35" />
 </p>
+
+## Let's Connect!
+<p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> [LinkedIn](https://www.linkedin.com/in/gabriele-peck/)
+</p>
