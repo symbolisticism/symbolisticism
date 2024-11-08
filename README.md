@@ -1,4 +1,4 @@
-**I am excited about mobile app development! Although I am relatively new to Flutter and Dart development, I am constantly working on my abilities. What I currently lack in knowledge, I make up for with my work ethic, persistence, and Google (of course). I look forward to working with good teams and good people.**
+**I am excited about all kinds of development. As a seasoned Flutter developer, I have experience developing for both front- and backend applications. I look forward to working with good teams and good people.**
 
 ## ⚒️ Languages and Tools
 <p>
